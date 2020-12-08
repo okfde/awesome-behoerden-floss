@@ -57,3 +57,9 @@ Genutzt von: [@cknebel79](https://twitter.com/cknebel79/status/13363200316683755
 *CONSUL is the most complete citizen participation tool for an open, transparent and democratic government.*  
 Genutzt von: [@MehrDem_BY](https://twitter.com/MehrDem_BY/status/1336360499181723649?s=20)
 
+
+## LIZENZ und CONTRIBUTING
+
+Diese Auflistung wird der Allgemeinheit unter der [Creative Commons Zero 1.0](https://creativecommons.org/publicdomain/zero/1.0/) zur freien Nutzung gewidmet. 
+
+Beiträge sind gerne als Pull Requests gesehen, sofern die Beitragenden mit der CC-0-Freigabe ihrer Ergänzung einverstanden sind.
