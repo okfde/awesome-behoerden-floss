@@ -15,15 +15,15 @@ Eine kuratierte Liste von F/LOSS-Software, die erfolgreich in der Verwaltung ein
 
 ## Wissensmanagement
 
-### XWiki
-[xwiki.org](https://www.xwiki.org/) • [LGPL2.1](https://www.gnu.de/documents/lgpl-2.1.de.html)  
-*"Enterprise"-Alternative* zu Mediawiki und Confluence.  
-Genutzt von: [@cknebel79](https://twitter.com/cknebel79/status/1336320031668375559?s=20)
-
 ### Wiki.js
 [wiki.js.org](https://wiki.js.org/) • [AGPL-v3](https://wiki.js.org/)  
 Wikisoftware mit sehr vielen Plugins (insb. im Bezug auf Authentifizierung).  
 Genutzt von: [@bergcoder](https://twitter.com/bergcoder/status/1336399122241294340?s=20)
+
+### XWiki
+[xwiki.org](https://www.xwiki.org/) • [LGPL2.1](https://www.gnu.de/documents/lgpl-2.1.de.html)  
+*"Enterprise"-Alternative* zu Mediawiki und Confluence.  
+Genutzt von: [@cknebel79](https://twitter.com/cknebel79/status/1336320031668375559?s=20)
 
 ## Ticketing-System
 
@@ -42,20 +42,20 @@ Genutzt von: [@cknebel79](https://twitter.com/cknebel79/status/13363200316683755
 ## Adressbuch
 ## Abstimmungen
 
-### LimeSurvey CE
-[community.limesurvey.org](https://community.limesurvey.org/downloads/) • [GNU GPL v2](https://community.limesurvey.org/licence-trademark/)  
-*World’s #1 open source survey tool*  
-Genutzt von: [@cknebel79](https://twitter.com/cknebel79/status/1336320031668375559?s=20)
+### CONSUL
+[consulproject.org](https://consulproject.org/en/) • [AGPLv3](https://github.com/consul/consul/blob/master/LICENSE-AGPLv3.txt)  
+*CONSUL is the most complete citizen participation tool for an open, transparent and democratic government.*  
+Genutzt von: [@MehrDem_BY](https://twitter.com/MehrDem_BY/status/1336360499181723649?s=20)
 
 ### Framadate
 [framagit.org](https://framagit.org/framasoft/framadate/framadate/-/wikis/home) • [CeCILL-B](https://framagit.org/framasoft/framadate/framadate/-/blob/develop/LICENSE.en.txt)  
 Tool für gemeinsame Terminfindung und Abstimmung.  
 Genutzt von: [@cknebel79](https://twitter.com/cknebel79/status/1336320031668375559?s=20), [@Lisa_Schmechel](https://twitter.com/Lisa_Schmechel/status/1336316230328717312?s=20)
 
-### CONSUL
-[consulproject.org](https://consulproject.org/en/) • [AGPLv3](https://github.com/consul/consul/blob/master/LICENSE-AGPLv3.txt)  
-*CONSUL is the most complete citizen participation tool for an open, transparent and democratic government.*  
-Genutzt von: [@MehrDem_BY](https://twitter.com/MehrDem_BY/status/1336360499181723649?s=20)
+### LimeSurvey CE
+[community.limesurvey.org](https://community.limesurvey.org/downloads/) • [GNU GPL v2](https://community.limesurvey.org/licence-trademark/)  
+*World’s #1 open source survey tool*  
+Genutzt von: [@cknebel79](https://twitter.com/cknebel79/status/1336320031668375559?s=20)
 
 
 ## LIZENZ und CONTRIBUTING
