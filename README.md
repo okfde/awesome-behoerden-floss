@@ -15,6 +15,16 @@ Eine kuratierte Liste von F/LOSS-Software, die erfolgreich in der Verwaltung ein
 
 ## Wissensmanagement
 
+### DokuWiki
+[DokuWiki.org](https://www.dokuwiki.org/dokuwiki) • [GPLv2](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)  
+Wiki-Software in PHP  
+Genutzt von: [@_stk/Stadt Ulm](https://twitter.com/_stk/status/1336452562443259907)
+
+### MediaWiki
+[mediawiki.org](https://www.mediawiki.org/wiki/MediaWiki/de) • [GPLv2](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)  
+Quasi _die_ Wikisoftware, die auch die Wiki-Grundlage für Wikipedia ist.  
+Genutzt von: [@_stk/Stadt Ulm](https://twitter.com/_stk/status/1336452562443259907)
+
 ### Wiki.js
 [wiki.js.org](https://wiki.js.org/) • [AGPL-v3](https://wiki.js.org/)  
 Wikisoftware mit sehr vielen Plugins (insb. im Bezug auf Authentifizierung).  
@@ -25,12 +35,35 @@ Genutzt von: [@bergcoder](https://twitter.com/bergcoder/status/13363991222412943
 *"Enterprise"-Alternative* zu Mediawiki und Confluence.  
 Genutzt von: [@cknebel79](https://twitter.com/cknebel79/status/1336320031668375559?s=20)
 
-## Ticketing-System
+## Ticketing-System (Veranstaltungstickets)
+
+### Pretalx
+[pretalx.com](https://pretalx.com/p/about/) • [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)  
+Konferenz- und Veranstaltungsplanungssystem mit Einreichungen, Bewertung, Programmplanung usw; funktional zusammen mit Pretix als ein Gesamtsystem sinnvoll.  
+Genutzt von: [@_stk/Stadt Ulm](https://twitter.com/_stk/status/1336452562443259907)
+
+### Pretix
+[pretix.eu](https://pretix.eu/about/de/) • [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)  
+Django-basierter Ticket-Vorverkaufs- und POS-Shop mit vielen Plugins für Zahlung, Sitzplatzreservierung etc.  
+Genutzt von: [@_stk/Stadt Ulm](https://twitter.com/_stk/status/1336452562443259907)
+
+
+## Projektmanagement und Ticketsystem (Troubletickets)
 
 ### OpenProject
 [openproject.org](https://www.openproject.org/) • [GNU GPL v3](https://www.openproject.org/about-us/)  
 *Open source project management software. Efficient classic, agile or hybrid project management in a secure environment.*  
 Genutzt von: [@cknebel79](https://twitter.com/cknebel79/status/1336320031668375559?s=20)
+
+### OTRS
+[OTRS.com](https://otrs.com/de/home/) • [GNU GPL v3](https://www.openproject.org/about-us/)  
+Helpdesk-/Issue-Tracking-System, browserbasiert.  
+Genutzt von: [@_stk/Stadt Ulm](https://twitter.com/_stk/status/1336452562443259907) (glaubt er, irgendwo im Haus)
+
+### Zammad Community
+[zammad.org](https://zammad.org/) • [GNU AGPLv3](http://www.gnu.org/licenses/agpl-3.0.de.html)  
+Helpdesk-/Issue-Tracking-System, browserbasiert, relativ unkomplizierte Bedienung im Vergleich zu ähnlichen Systemen.  
+Genutzt von: [@_stk/Stadt Ulm](https://twitter.com/_stk/status/1336452562443259907)
 
 ## Frage-Antwort-Board
 
