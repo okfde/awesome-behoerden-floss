@@ -7,27 +7,29 @@ Eine kuratierte Liste von F/LOSS-Software, die erfolgreich in der Verwaltung ein
 
 ## Inhalt
 - [Wissensmanagement](#wissensmanagement)
-- [Ticketing-System](#ticketing-System)
+- [Ticketing-System](#ticketing-system-veranstaltungstickets)
 - [Frage-Antwort-Board](#frage-antwort-board)
+- [Projektmanagement und Ticketsystem (Troubletickets)](projektmanagement-und-ticketsystem-troubletickets)
 - [Adressbuch](#adressbuch)
 - [Abstimmungen](#abstimmungen)
+- [Kollaboration](#kollaboration)
 
 
 ## Wissensmanagement
 
 ### DokuWiki
 [DokuWiki.org](https://www.dokuwiki.org/dokuwiki) • [GPLv2](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)  
-Wiki-Software in PHP  
+*Wiki-Software in PHP*  
 Genutzt von: [@_stk/Stadt Ulm](https://twitter.com/_stk/status/1336452562443259907)
 
 ### MediaWiki
 [mediawiki.org](https://www.mediawiki.org/wiki/MediaWiki/de) • [GPLv2](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)  
-Quasi _die_ Wikisoftware, die auch die Wiki-Grundlage für Wikipedia ist.  
+*Quasi _die_ Wikisoftware, die auch die Wiki-Grundlage für Wikipedia ist.*  
 Genutzt von: [@_stk/Stadt Ulm](https://twitter.com/_stk/status/1336452562443259907)
 
 ### Wiki.js
 [wiki.js.org](https://wiki.js.org/) • [AGPL-v3](https://wiki.js.org/)  
-Wikisoftware mit sehr vielen Plugins (insb. im Bezug auf Authentifizierung).  
+*Wikisoftware mit sehr vielen Plugins (insb. im Bezug auf Authentifizierung).*  
 Genutzt von: [@bergcoder](https://twitter.com/bergcoder/status/1336399122241294340?s=20)
 
 ### XWiki
@@ -39,12 +41,12 @@ Genutzt von: [@cknebel79](https://twitter.com/cknebel79/status/13363200316683755
 
 ### Pretalx
 [pretalx.com](https://pretalx.com/p/about/) • [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)  
-Konferenz- und Veranstaltungsplanungssystem mit Einreichungen, Bewertung, Programmplanung usw; funktional zusammen mit Pretix als ein Gesamtsystem sinnvoll.  
+*Konferenz- und Veranstaltungsplanungssystem mit Einreichungen, Bewertung, Programmplanung usw; funktional zusammen mit Pretix als ein Gesamtsystem sinnvoll.*  
 Genutzt von: [@_stk/Stadt Ulm](https://twitter.com/_stk/status/1336452562443259907)
 
 ### Pretix
 [pretix.eu](https://pretix.eu/about/de/) • [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)  
-Django-basierter Ticket-Vorverkaufs- und POS-Shop mit vielen Plugins für Zahlung, Sitzplatzreservierung etc.  
+*Django-basierter Ticket-Vorverkaufs- und POS-Shop mit vielen Plugins für Zahlung, Sitzplatzreservierung etc.*  
 Genutzt von: [@_stk/Stadt Ulm](https://twitter.com/_stk/status/1336452562443259907)
 
 
@@ -57,13 +59,18 @@ Genutzt von: [@cknebel79](https://twitter.com/cknebel79/status/13363200316683755
 
 ### OTRS
 [OTRS.com](https://otrs.com/de/home/) • [GNU GPL v3](https://www.openproject.org/about-us/)  
-Helpdesk-/Issue-Tracking-System, browserbasiert.  
+*Helpdesk-/Issue-Tracking-System, browserbasiert.*  
 Genutzt von: [@_stk/Stadt Ulm](https://twitter.com/_stk/status/1336452562443259907) (glaubt er, irgendwo im Haus)
 
 ### Zammad Community
 [zammad.org](https://zammad.org/) • [GNU AGPLv3](http://www.gnu.org/licenses/agpl-3.0.de.html)  
-Helpdesk-/Issue-Tracking-System, browserbasiert, relativ unkomplizierte Bedienung im Vergleich zu ähnlichen Systemen.  
+*Helpdesk-/Issue-Tracking-System, browserbasiert, relativ unkomplizierte Bedienung im Vergleich zu ähnlichen Systemen.*  
 Genutzt von: [@_stk/Stadt Ulm](https://twitter.com/_stk/status/1336452562443259907)
+
+### Taiga
+[taiga.io](https://www.taiga.io/) • [GNU AGPLv3](https://github.com/taigaio/taiga-back/blob/master/LICENSE)  
+*Agile project management platform. Built on top of Django and AngularJS.*  
+Genutzt von: [@EduardItrich](https://twitter.com/EduardItrich)
 
 ## Frage-Antwort-Board
 
@@ -80,9 +87,14 @@ Genutzt von: [@cknebel79](https://twitter.com/cknebel79/status/13363200316683755
 *CONSUL is the most complete citizen participation tool for an open, transparent and democratic government.*  
 Genutzt von: [@MehrDem_BY](https://twitter.com/MehrDem_BY/status/1336360499181723649?s=20)
 
+### Decidim
+[decidim.org](https://decidim.org/) •  [AGPLv3](https://github.com/decidim/decidim/blob/develop/LICENSE-AGPLv3.txt)  
+*decidim is a digital infrastructure for participatory democracy led by the Barcelona City Council with contributors and collaborators all around the world.*  
+Genutzt von: [@EduardItrich](https://twitter.com/EduardItrich)
+
 ### Framadate
 [framagit.org](https://framagit.org/framasoft/framadate/framadate/-/wikis/home) • [CeCILL-B](https://framagit.org/framasoft/framadate/framadate/-/blob/develop/LICENSE.en.txt)  
-Tool für gemeinsame Terminfindung und Abstimmung.  
+*Tool für gemeinsame Terminfindung und Abstimmung.*  
 Genutzt von: [@cknebel79](https://twitter.com/cknebel79/status/1336320031668375559?s=20), [@Lisa_Schmechel](https://twitter.com/Lisa_Schmechel/status/1336316230328717312?s=20)
 
 ### LimeSurvey CE
@@ -90,6 +102,21 @@ Genutzt von: [@cknebel79](https://twitter.com/cknebel79/status/13363200316683755
 *World’s #1 open source survey tool*  
 Genutzt von: [@cknebel79](https://twitter.com/cknebel79/status/1336320031668375559?s=20)
 
+## Kollaboration
+### Jitsi Meet
+[meet.jit.si](https://meet.jit.si) • [Apache License 2.0](https://github.com/jitsi/jitsi-meet/blob/master/LICENSE)  
+*Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.*  
+Genutzt von: [@EduardItrich](https://twitter.com/EduardItrich), [@readikommunal](https://twitter.com/readikommunal)
+
+### Nextcloud
+[nextcloud.com](https://nextcloud.com/) • [GNU GPL v3](https://github.com/nextcloud/server/blob/master/COPYING)  
+*Nextcloud is the most deployed on-premises file share and collaboration platform. Access & collaborate across your devices. Your data remains under your control.*  
+Genutzt von: [@EduardItrich](https://twitter.com/EduardItrich), [@readikommunal](https://twitter.com/readikommunal)
+
+### 4Minitz
+[4minitz.org](https://www.4minitz.com/) • [MIT](https://github.com/4minitz/4minitz/blob/develop/LICENSE.md)  
+*4Minitz - Simply a decent free webapp for taking collaborative meeting minutes.*  
+Genutzt von: [@EduardItrich](https://twitter.com/EduardItrich)
 
 ## LIZENZ und CONTRIBUTING
 
