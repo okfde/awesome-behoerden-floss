@@ -121,14 +121,14 @@ Genutzt von: [@EduardItrich](https://twitter.com/EduardItrich)
 
 ## Internet of Shit
 ### Thingsboard
-[thingsboard.io](https://thingsboard.io) • [Apache License 2.0](https://github.com/thingsboard/thingsboard/blob/master/LICENSE)
-*Open-source IoT Platform - Device management, data collection, processing and visualization.*
-Genutzt von: [@EduardItrich](https://twitter.com/EduardItrich), [@readikommunal](https://twitter.com/readikommunal), [@StefanKrausTUG](https://twitter.com/stefankraustug)
+[thingsboard.io](https://thingsboard.io) • [Apache License 2.0](https://github.com/thingsboard/thingsboard/blob/master/LICENSE)  
+*Open-source IoT Platform - Device management, data collection, processing and visualization.*  
+Genutzt von: [@EduardItrich](https://twitter.com/EduardItrich), [@readikommunal](https://twitter.com/readikommunal), [@StefanKrausTUG](https://twitter.com/stefankraustug)  
 
 ### Clair-Berlin
-[clair-berlin.de](https://clair-berlin.de) • [BSD 3-Clause License](https://github.com/ClairBerlin/clair-stack/blob/master/LICENSE.txt)
-*Clair Berlin provides a platform to collect, analyze and display air-quality information in public indoor spaces.*
-Genutzt von: [@EduardItrich](https://twitter.com/EduardItrich)
+[clair-berlin.de](https://clair-berlin.de) • [BSD 3-Clause License](https://github.com/ClairBerlin/clair-stack/blob/master/LICENSE.txt)  
+*Clair Berlin provides a platform to collect, analyze and display air-quality information in public indoor spaces.*  
+Genutzt von: [@EduardItrich](https://twitter.com/EduardItrich)  
 
 ## LIZENZ und CONTRIBUTING
 
