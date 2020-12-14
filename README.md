@@ -13,7 +13,7 @@ Eine kuratierte Liste von F/LOSS-Software, die erfolgreich in der Verwaltung ein
 - [Adressbuch](#adressbuch)
 - [Abstimmungen](#abstimmungen)
 - [Kollaboration](#kollaboration)
-- [Internet of Shit](#internet-of-shit]
+- [Internet of Shit](#internet-of-shit)
 
 
 ## Wissensmanagement
