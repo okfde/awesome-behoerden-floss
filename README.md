@@ -13,7 +13,7 @@ Eine kuratierte Liste von F/LOSS-Software, die erfolgreich in der Verwaltung ein
 - [Adressbuch](#adressbuch)
 - [Abstimmungen](#abstimmungen)
 - [Kollaboration](#kollaboration)
-- [Internet of Shit](#internet-of-shit)
+- [Internet of Things und Smart City](#internet-of-things-und-smart-city)
 
 
 ## Wissensmanagement
@@ -119,7 +119,7 @@ Genutzt von: [@EduardItrich](https://twitter.com/EduardItrich), [@readikommunal]
 *4Minitz - Simply a decent free webapp for taking collaborative meeting minutes.*  
 Genutzt von: [@EduardItrich](https://twitter.com/EduardItrich)
 
-## Internet of Shit
+## Internet of Things und Smart City
 ### Thingsboard
 [thingsboard.io](https://thingsboard.io) • [Apache License 2.0](https://github.com/thingsboard/thingsboard/blob/master/LICENSE)  
 *Open-source IoT Platform - Device management, data collection, processing and visualization.*  
