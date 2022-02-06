@@ -96,7 +96,7 @@ Genutzt von: [@EduardItrich](https://twitter.com/EduardItrich)
 ### Framadate
 [framagit.org](https://framagit.org/framasoft/framadate/framadate/-/wikis/home) • [CeCILL-B](https://framagit.org/framasoft/framadate/framadate/-/blob/develop/LICENSE.en.txt)  
 *Tool für gemeinsame Terminfindung und Abstimmung.*  
-Genutzt von: [@cknebel79](https://twitter.com/cknebel79/status/1336320031668375559?s=20), [@Lisa_Schmechel](https://twitter.com/Lisa_Schmechel/status/1336316230328717312?s=20)
+Genutzt von: [@cknebel79](https://twitter.com/cknebel79/status/1336320031668375559?s=20), [@Lisa_Schmechel](https://twitter.com/Lisa_Schmechel/status/1336316230328717312?s=20), [Thüringer Landesrechenzentrum (TLRZ)](https://terminplaner.thueringen.de/)
 
 ### LimeSurvey CE
 [community.limesurvey.org](https://community.limesurvey.org/downloads/) • [GNU GPL v2](https://community.limesurvey.org/licence-trademark/)  
