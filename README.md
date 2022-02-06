@@ -63,6 +63,11 @@ Genutzt von: [@cknebel79](https://twitter.com/cknebel79/status/13363200316683755
 *Helpdesk-/Issue-Tracking-System, browserbasiert.*  
 Genutzt von: [@_stk/Stadt Ulm](https://twitter.com/_stk/status/1336452562443259907) (glaubt er, irgendwo im Haus)
 
+### GitLab
+[Gitlab](https://about.gitlab.com/) • [MIT and others](https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/LICENSE)
+*Open source code hosting and project management software*
+Genuztz von: [FITKO](https://git.fitko.de/), [KoSIT](https://projekte.kosit.org/), [Open Source Code Repository (BMI, NRW und BW)](https://gitlab.o4oe.de/explore)
+
 ### Zammad Community
 [zammad.org](https://zammad.org/) • [GNU AGPLv3](http://www.gnu.org/licenses/agpl-3.0.de.html)  
 *Helpdesk-/Issue-Tracking-System, browserbasiert, relativ unkomplizierte Bedienung im Vergleich zu ähnlichen Systemen.*  
