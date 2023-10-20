@@ -103,6 +103,12 @@ Genutzt von: [@cknebel79](https://twitter.com/cknebel79/status/13363200316683755
 *World’s #1 open source survey tool*  
 Genutzt von: [@cknebel79](https://twitter.com/cknebel79/status/1336320031668375559?s=20)
 
+### Terminfinder
+[gitlab.opencode.de/dataport/terminfinder](https://gitlab.opencode.de/dataport/terminfinder) • [EUPL v1.2](https://gitlab.opencode.de/dataport/terminfinder/terminfinder-backend/-/blob/main/LICENSE)  
+*Tool für gemeinsame Terminfindung und Abstimmung.*  
+Genutzt von: [Schleswig-Holstein](https://terminfinder.schleswig-holstein.de/)
+
+
 ## Kollaboration
 ### Jitsi Meet
 [meet.jit.si](https://meet.jit.si) • [Apache License 2.0](https://github.com/jitsi/jitsi-meet/blob/master/LICENSE)  
